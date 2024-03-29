@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 master1
 feature/ty123 1
+=======
+master 1
+feature 1
+>>>>>>> main
